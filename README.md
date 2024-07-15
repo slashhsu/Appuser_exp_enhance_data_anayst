@@ -4,8 +4,6 @@
 
 <img width="1001" alt="image" src="https://github.com/user-attachments/assets/400523b0-7798-4533-9c4d-728ed0c7b4b8">
 
-<img width="980" alt="image" src="https://github.com/user-attachments/assets/6be6b8d8-cbc2-4a35-aba2-a7cfffdc55cf">
-
 <img width="1003" alt="image" src="https://github.com/user-attachments/assets/6d2f6959-61c5-4f72-acaf-fc48c067e22f">
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/82322c14-d075-4238-b675-f1e871818e50">
